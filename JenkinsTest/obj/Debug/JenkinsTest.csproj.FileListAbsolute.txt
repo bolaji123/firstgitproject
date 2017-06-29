@@ -1,0 +1,1 @@
+C:\Projects\JenkinsProject\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.exe.config
